@@ -2,8 +2,8 @@ import network
 import time
 import socket
 
-ap_ssid = "xcx"
-ap_password = "xcx19951219"
+ap_ssid = ""
+ap_password = ""
 ap_authmode = 3  # WPA2
 
 wlan_ap = network.WLAN(network.AP_IF)
