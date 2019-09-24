@@ -3,8 +3,8 @@ import webserver
 import gpio
 import webrepl
 # import webapp
-ssid = "xcx"
-password = "xcx19951219"
+ssid = ""
+password = ""
 
 wlan = wlanauto.get_connection(ssid,password)
 
